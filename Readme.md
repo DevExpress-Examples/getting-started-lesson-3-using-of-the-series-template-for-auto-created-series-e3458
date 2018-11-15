@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SilverlightApplication3/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication3/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/SilverlightApplication3/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/SilverlightApplication3/MainPage.xaml.vb))
+<!-- default file list end -->
 # Getting Started - Lesson 3 - Using of the Series Template for Auto-Created Series
 
 
